@@ -6,6 +6,3 @@ Me encuentro aprendiendo sobre ciencia de datos, deteccion de objetos con python
 
 Mi correo personal
 ► obed_aguilar9@hotmail.com 
-
-Correo IA Center
-► obed.aguilar@train.ia.center
