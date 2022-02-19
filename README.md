@@ -8,4 +8,4 @@ Mi correo personal
 ► obed_aguilar9@hotmail.com 
 
 Correo IA Center
-►obed.aguilar@train.ia.center
+► obed.aguilar@train.ia.center
